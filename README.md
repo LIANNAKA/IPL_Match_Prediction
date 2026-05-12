@@ -142,3 +142,6 @@ Planned future developments include:
 - Development of an interactive web application  
 - Deployment of predictive dashboards  
 - Advanced model optimization techniques  
+
+# Kaggle link
+https://www.kaggle.com/code/liannakadadi/ipl-match-prediction-analysis
